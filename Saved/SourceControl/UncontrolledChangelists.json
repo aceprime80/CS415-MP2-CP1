@@ -1,0 +1,27 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/aceprime80/Documents/UIUC 2023-24/CS415/MP2/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset",
+				"/Users/aceprime80/Documents/UIUC 2023-24/CS415/MP2/Content/LearningKit_Games/Blueprints/UI_Elements/HUD.uasset",
+				"/Users/aceprime80/Documents/UIUC 2023-24/CS415/MP2/Content/LearningKit_Games/Blueprints/UI_Elements/GameOver.uasset",
+				"/Users/aceprime80/Documents/UIUC 2023-24/CS415/MP2/Content/LearningKit_Games/Blueprints/Pickups/BP_MY_Collectible.uasset",
+				"/Users/aceprime80/Documents/UIUC 2023-24/CS415/MP2/Content/LearningKit_Games/Blueprints/Pickups/HealthPacks.uasset",
+				"/Users/aceprime80/Documents/UIUC 2023-24/CS415/MP2/Content/LearningKit_Games/Maps/LearningKit_Games_Showcase.umap",
+				"/Users/aceprime80/Documents/UIUC 2023-24/CS415/MP2/Content/LearningKit_Games/Blueprints/Enemies/BP_Pursuer.uasset",
+				"/Users/aceprime80/Documents/UIUC 2023-24/CS415/MP2/Content/LearningKit_Games/Blueprints/Enemies/Pursuer_AIController.uasset",
+				"/Users/aceprime80/Documents/UIUC 2023-24/CS415/MP2/Content/LearningKit_Games/Blueprints/Enemies/EAIState.uasset",
+				"/Users/aceprime80/Documents/UIUC 2023-24/CS415/MP2/Content/LearningKit_Games/Blueprints/UI_Elements/WBP_Restart.uasset",
+				"/Users/aceprime80/Documents/UIUC 2023-24/CS415/MP2/Content/LearningKit_Games/Blueprints/UI_Elements/T_Restart.uasset",
+				"/Users/aceprime80/Documents/UIUC 2023-24/CS415/MP2/Content/LearningKit_Games/Blueprints/PlayerCharacter/HUD.uasset",
+				"/Users/aceprime80/Documents/UIUC 2023-24/CS415/MP2/Content/LearningKit_Games/Blueprints/HUD.uasset",
+				"/Users/aceprime80/Documents/UIUC 2023-24/CS415/MP2/Content/LearningKit_Games/Blueprints/UI_Elements/NewWidgetBlueprint.uasset",
+				"/Users/aceprime80/Documents/UIUC 2023-24/CS415/MP2/Content/LearningKit_Games/Blueprints/Pickups/NewBlueprint.uasset",
+				"/Users/aceprime80/Documents/UIUC 2023-24/CS415/MP2/Content/NewWidgetBlueprint.uasset"
+			]
+		}
+	]
+}
